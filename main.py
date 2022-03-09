@@ -3,3 +3,5 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import time
+
+st.title('Steremlit 超入門')
